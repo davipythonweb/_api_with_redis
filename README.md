@@ -45,3 +45,9 @@ app/
 ├── __init__.py
 │
 └── extensions.py
+
+
+- comandos no terminal para visualizar projeto
+* find app -type f
+* ls app/services
+* pip freeze requirements.txt
