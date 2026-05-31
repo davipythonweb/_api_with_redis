@@ -52,6 +52,10 @@ app/
 * ls app/services
 * pip freeze requirements.txt
 
+* flask db init => inicializa as migrations
+* flask db migrate -m "create users table"  =>gerar a migration
+* flask db upgrade => aplicar a migration
+
 
 
 # 🚀 Flask JWT Authentication API
